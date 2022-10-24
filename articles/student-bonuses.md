@@ -14,7 +14,7 @@ author: Відділ гайдів, @Olexandr_T
 Для студентів діє знижка близько 50% вартості проїзду в загальних і плацкартних вагонах, вагонах 2-го та 3-го класу всіх категорій поїздів та всіх типів вагонів електро- і дизельних поїздів підвищеного комфорту (включно з потягами Хюндай). Для отримання знижки при купівлі квитків на потяг:
 
 
-- онлайн: обери пільговий студентський вид квитка та введи номер студентського, а також твої ПІБ українською;
+- онлайн: обери пільговий студентський вид квитка та введи номер студентського, а також твої ПІБ українською **(під час дії правового режиму воєнного стану цей спосіб недоступний)**;
 - у касі: покажи касиру свій студентський квиток.
 
 #### Громадський транспорт
@@ -70,9 +70,9 @@ author: Відділ гайдів, @Olexandr_T
 
 #### [Unity student plan](https://unity.com/products/unity-student)
 
-- [https://assetstore.unity.com/student-plan-pack1](https://assetstore.unity.com/student-plan-pack1) — пак різноманітних асетів, які можна викоистовувати у своїх іграх;
-- **Cloud-based Collaboration** — ****робота над груповими проектами до 5 людей в команді, контроль версій;
-- **Cloud Build** — ****автоматизація міжплатформенного збирання у хмарі, щоб проводити швидкі ітерації та підвищувати якість.
+- [Пак різноманітних асетів](https://assetstore.unity.com/student-plan-pack1), які можна викоистовувати у своїх іграх;
+- **Cloud-based Collaboration** — робота над груповими проектами до 5 людей в команді, контроль версій;
+- **Cloud Build** — автоматизація міжплатформенного збирання у хмарі, щоб проводити швидкі ітерації та підвищувати якість.
 
 #### Adobe Creative Cloud
 
@@ -103,7 +103,7 @@ Notion’s Personal Pro Plan безкоштовний для студентів.
 ## Музика та відео
 
 - [Spotify — $2.49](https://www.spotify.com/ua-uk/student/)
-- [Apple Music та Apple TV+ — $2.50](https://support.apple.com/uk-ua/HT205928)
+- [Apple Music та Apple TV+ — $2.49](https://support.apple.com/uk-ua/HT205928)
 - [YouTube Music — 39 ₴](https://www.youtube.com/musicpremium/student)
 - [YouTube Premium (разом із YouTube Music) — 59 ₴](https://www.youtube.com/premium/student)
 - [Amazon prime - $7.49](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011)
